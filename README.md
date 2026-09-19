@@ -31,10 +31,7 @@ This project is a frontend clone of the Udemy website. It was created to practic
 
 This project was created as part of my Full Stack Development learning journey to improve my frontend development skills.
 
-## 🙏 Thank You
+## Thank You
 
 Thank you for visiting my Udemy Clone project!
 I hope you found it interesting and useful.
-## 🙏 Thank You
-
-Thank you for visiting my Udemy Clone project!
