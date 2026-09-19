@@ -25,7 +25,7 @@ This project is a frontend clone of the Udemy website. It was created to practic
 
 1. Clone or download this repository.
 2. Open the project folder.
-3. Open `index.html` in your browser.
+3. [Open the Project](https://viji-tech08.github.io/udemy-clone-project/) in your browser.
 
 ## Purpose
 
