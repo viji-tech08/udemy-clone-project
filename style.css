@@ -96,6 +96,7 @@ body {
 }
 .sale-image img{
     width: 100%;
+   
 }
 .sale-image__offer{
     width: 30%;
@@ -126,6 +127,7 @@ body {
 
 .recommended{
     padding: 10px;
+
 }
 
 .recommended__container{
@@ -143,6 +145,7 @@ body {
 .course-card img{
     height: 200px;
     width: 100%;
+    object-fit: cover;
 }
 .topics{
     padding: 10px;
@@ -208,4 +211,15 @@ body {
         display: block;
     }
     
+}
+@media screen and (max-width:600px) {
+    .course-card {
+        flex-basis: 40%;
+    }
+
+    .course-card img {
+        width: 100%;
+        height: 120px;
+        object-fit: cover;
+    }
 }
